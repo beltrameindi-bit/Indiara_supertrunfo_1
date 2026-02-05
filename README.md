@@ -1,2 +1,2 @@
 # Indiara_supertrunfo_1
-Trabalho Super Trunfo 1
+Experiência em Assembler, C para microcontroladores, C# para Skyline/Dataminer
